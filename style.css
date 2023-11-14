@@ -12,7 +12,6 @@ a{
     }
 body{
     background-color: lightsalmon;
-      /* background-image: url('1.jpg'); */
        background-attachment: fixed;
        background-size: cover; 
        margin: 100; 
@@ -22,10 +21,4 @@ body{
 hr{
         color: #000;
     }
-/* h4{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-       
-    } 
-*/
+
