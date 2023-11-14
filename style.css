@@ -1,0 +1,30 @@
+h1{
+    color: rgb(0, 0, 0);
+    }
+h2{
+        color: darkcyan;
+    }
+h3{
+        color: aqua;
+    }
+a{
+        color:rgb(75, 50, 165)
+    }
+body{
+    background-color: lightsalmon;
+       
+       background-attachment: fixed; /* Fix háttér */
+       background-size: cover; /* A kép méretezése az ablakhoz */
+       margin: 100; /* Margó eltüntetése */
+       padding: 10; /* Padding eltüntetése */
+        
+    }
+hr{
+        color: #000;
+    }
+h4{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+}
