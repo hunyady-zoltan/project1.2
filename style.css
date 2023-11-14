@@ -13,10 +13,10 @@ a{
 body{
     background-color: lightsalmon;
        
-       background-attachment: fixed; /* Fix háttér */
-       background-size: cover; /* A kép méretezése az ablakhoz */
-       margin: 100; /* Margó eltüntetése */
-       padding: 10; /* Padding eltüntetése */
+       background-attachment: fixed;
+       background-size: cover; 
+       margin: 100; 
+       padding: 10;
         
     }
 hr{
